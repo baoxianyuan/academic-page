@@ -5,41 +5,23 @@
 
 main:
   - name: Home
-    url: '#about'
-    weight: 20
-  # - name: Skills
-  #   url: '#skills'
-  #   weight: 40
-  # - name: Experience
-  #   url: '#experience'
-  #   weight: 50
-  # - name: Accomplishments
-  #   url: '#accomplishments'
-  #   weight: 60
+    url: '/'
+    weight: 10
   - name: Projects
     url: '#projects'
-    weight: 70
-  # - name: Featured
-  #   url: '#featured'
-  #   weight: 80
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 90
-  # - name: Posts
-  #   url: '#posts'
-    # weight: 100
+    weight: 30
+  - name: Blog
+    url: 'https://blog.baoxianyuan.cn/'
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 140
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   # - name: CV
   #   url: 'https://cv.songshgeo.com/uploads/SongshGeo_CV.pdf'
   #   weight: 70
-  - name: GitHub
-    url: '#skills'
-    weight: 120
-  - name: Blog (non-academic)
-    url: 'https://songshgeo.com/'
-    weight: 130
