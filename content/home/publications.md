@@ -36,6 +36,6 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Only 5 featured publications are showed below. Quickly discover all relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->

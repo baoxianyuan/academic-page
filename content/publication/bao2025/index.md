@@ -34,8 +34,7 @@ publishDate: '2025-05-30T00:00:00Z'
 publication_types: ['2']
 categories:
   - 'research article'
-  - 'co-author'
-  - 'English'
+  - 'first-author'
 
 # Publication name and optional abbreviated publication name.
 publication: _Ecological Engineering_

@@ -79,8 +79,6 @@ highlight_name: true
 
 📚 Learn more about me through the below materials:
 
-{{< icon name="download" pack="fas" >}} Learn more about me through the below materials:
-
 <!-- - 📄 {{< staticref "uploads/SongshGeo_CV_pdf.pdf" "newtab" >}}Short resumé{{< /staticref >}}: Get to know me in two pages. -->
-- 📚 {{< staticref "uploads/Bao_CV.pdf" "newtab" >}}Academic CV{{< /staticref >}}: With full publications.
+- {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/Bao_CV.pdf" "newtab" >}}Academic CV{{< /staticref >}}: With full publications.
 <!-- - 🌍 {{< staticref "uploads/SongshGeo_CV_pdf.pdf" "newtab" >}}My adventures{{< /staticref >}}: Life is an adventure. -->
