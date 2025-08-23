@@ -37,8 +37,8 @@ categories:
   - 'first-author'
 
 # Publication name and optional abbreviated publication name.
-publication: _Ecological Engineering_
-publication_short: _Ecological Engineering_
+publication: _Journal of Sediment Research_
+publication_short: 
 
 abstract: Sediment resource utilization is used as a treatment method that integrates economic and ecological benefits, but there is a lack of systematic analysis of its research status, challenges and development prospects. By extensively combing the research results on the sources, characteristics and current status of resource utilization of the Yellow River sediment, the formation processes and physical and chemical characteristics of the Yellow River sediment are analyzed, the current status of resource utilization of Yellow River sediment is summarized, and based on the current status, the current challenges are proposed and explored, and corresponding suggestions are put forward to address the challenges. Although a more mature direction for the resource utilization of sediment has been formed, there are still deficiencies in many aspects, such as technical capacity and environmental protection. The current challenges include low economic efficiency, ecological and environmental protection requirements, lack of technological innovation and low social awareness and participation. The strategies proposed include exploring new ways to utilize sediment resources, establishing a sound environmental protection and monitoring and evaluation system, strengthening publicity and education, and innovating public participation mechanisms.
 

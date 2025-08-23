@@ -27,9 +27,9 @@ content:
   # Contact details (edit or remove options as required)
   email: xybao@stu.nxu.edu.cn
   address:
-    street: West Helanshan
+    street: 539 West Helanshan
     city: Yinchuan
-    region: Xixia District
+    region: Ningxia
     postcode: '750021'
     country: China
     country_code: China

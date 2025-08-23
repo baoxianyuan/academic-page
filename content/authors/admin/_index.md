@@ -14,7 +14,7 @@ organizations:
     url: https://www.nxu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A geographer who also travels.
+bio: 
 
 # Interests to show in About widget
 interests:
