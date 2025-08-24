@@ -39,6 +39,22 @@ The global environment is under unprecedented pressure due to the strong influen
 
 The Yellow River Basin (YRB) has been influenced by more than 3,000 years of historical development and modern high-intensity economic activities; the spatial linkages between human activities and the resources and environment, and the region’s upper, middle, and lower reaches, are still changing. The river basin is ideal for studying human-water systems in environmental change. Therefore, it is informative to elucidate the mechanism of socio-hydrological system coupling in the YRB, providing fundamental inspiration for water sustainable management worldwide, and promoting the development of earth system science in China through integrated research in the basin.
 
+## TimeLine
+
+**2023**
+
+- I started learning social-hydrology. 
+
+**2023**
+
+- I participated in a field trip on watershed planning and management.
+
+**2025**
+
+- I have received a grant from the **Postgraduate Innovation Project of Ningxia University**.
+
+- I published a review article: [Research status, challenges and prospects of the utilization of Yellow River sediment resources](/publication/bao2025).
+
 ## Acknowledgement
 
 This project is funded by:
